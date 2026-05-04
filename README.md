@@ -46,13 +46,10 @@ portfolio-project/
 │── about.html          # About me page
 │── projects.html       # Projects showcase
 │── contact.html        # Contact form
-│
 ├── assets/             # Static assets
 │   ├── img/            # Images
 │   └── fonts/          # Fonts
-│
 ├── css/
 │   └── style.css       # Main stylesheet
-│
 └── js/
     └── script.js       # Main JavaScript file
